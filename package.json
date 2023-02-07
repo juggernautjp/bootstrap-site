@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-site",
+  "version": "0.1.0",
+  "description": "bootstrap/site build",
+  "main": "index.js",
+  "scripts": {
+    "css-lint-stylelint": "stylelint \"**/*.{css,scss}\" --cache --cache-location .cache/.stylelintcache --rd",
+    "build": "hugo --cleanDestinationDir",
+    "serve": "hugo server --disableFastRender",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "author": "bootstrap",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "postcss-cli": "^10.1.0",
+    "sass": "^1.58.0",
+    "sass-true": "^7.0.0",
+    "stylelint": "^14.16.1",
+    "stylelint-config-twbs-bootstrap": "^7.0.0"
+  }
+}

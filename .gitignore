@@ -1,8 +1,11 @@
-# Ignore docs files
-/_site/
 # Hugo files
 /resources/
 /.hugo_build.lock
+/_vendor/
+/public/
+/.cache/
+/node_modules/
+
 
 # Numerous always-ignore extensions
 *.diff
@@ -15,6 +18,7 @@
 *.vi
 *.zip
 *~
+*.bak
 
 # OS or Editor folders
 ._*
@@ -40,3 +44,4 @@ Thumbs.db
 # Folders to ignore
 /js/coverage/
 /node_modules/
+
