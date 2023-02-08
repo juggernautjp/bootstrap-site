@@ -16,7 +16,6 @@
 {{- if or (not $name) (not $file) -}}
   {{- errorf "%s: %q: Missing required parameters! Got: name=%q file=%q!" .Position .Name $name $file -}}
 {{- else -}}
-
   {{- $capture_start := printf "// scss-docs-start %s\n" $name -}}
   {{- $capture_end := printf "// scss-docs-end %s" $name -}}
   {{- $regex := printf `%s((?:.|\n)*)%s` $capture_start $capture_end -}}
@@ -30,7 +29,7 @@
   {{- $match = index $match 0 -}}
 
   {{- if not $match -}}
-    {{- warnf "%s: %q: Got no matches for name=%q in file=%q!" .Position .Name $name $file -}}
+    {{- errorf "%s: %q: Got no matches for name=%q in file=%q!" .Position .Name $name $file -}}
   {{- end -}}
 
   {{- $match = replace $match $capture_start "" -}}
