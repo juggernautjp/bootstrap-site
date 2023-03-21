@@ -90,6 +90,3 @@ params:
   anchors:
     min: 2
     max: 5
-
-  # options for Hugo modules
-#  options:
