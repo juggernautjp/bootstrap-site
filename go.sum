@@ -8,3 +8,15 @@ github.com/juggernautjp/hugo-widebs5-dependencies v0.0.0-20230228175153-0851b94d
 github.com/juggernautjp/hugo-widebs5-dependencies v0.0.0-20230228175153-0851b94d9cbb/go.mod h1:po8K5kLeoKpeXy5Iw+ZBeDWzCJfqjTW60feZMjYGP+c=
 github.com/juggernautjp/hugo-widebs5-dependencies v0.0.0-20230321134532-52350217d78a h1:5Osy90Wdko7yhcXbWglaHRlOg/0Ikvv5fUF9vf2r8B4=
 github.com/juggernautjp/hugo-widebs5-dependencies v0.0.0-20230321134532-52350217d78a/go.mod h1:sCfpi//N1xAobYq3k76WbxLcH5w4XAiLacxY8tNVRbM=
+github.com/juggernautjp/hugo-widebs5-dependencies v0.0.0-20230322163816-ea09008c9f62 h1:kR434AitCekI4j/6QCS4NoJc4dzRECGLxkXB46GzRf0=
+github.com/juggernautjp/hugo-widebs5-dependencies v0.0.0-20230322163816-ea09008c9f62/go.mod h1:1SDFnFH8MuBZ0YGmQHEKDEMnkazjtVpSc2gQYlo4L7k=
+github.com/juggernautjp/hugo-widebs5-dependencies v0.0.0-20230323220404-0c68b54a1e40 h1:iOauVhDv1bpbDw4r2JhsZ82BDYh4gBiUvFaCzJ33HIE=
+github.com/juggernautjp/hugo-widebs5-dependencies v0.0.0-20230323220404-0c68b54a1e40/go.mod h1:lneo8LwHXmJ8JYDRtq5hiFtrxgSLZ4ERskVjj6pMIdg=
+github.com/juggernautjp/hugo-widebs5-dependencies v0.0.0-20230328051159-04caed121df4 h1:SSFN1kSkLXLTX/vdiNrUihJ/DZHxG5uHxhxImhGg70E=
+github.com/juggernautjp/hugo-widebs5-dependencies v0.0.0-20230328051159-04caed121df4/go.mod h1:bn8wFwR3jVQN0DIRPV31zlwyhSK2tBGk/ui/n9G0sOY=
+github.com/juggernautjp/hugo-widebs5-dependencies v0.0.0-20230328162106-dc3d87af9cad h1:ydABsoOkni10fSn/svyzOiacfCGtBhR/Y5mBXFZiKmU=
+github.com/juggernautjp/hugo-widebs5-dependencies v0.0.0-20230328162106-dc3d87af9cad/go.mod h1:HMnXy7sMBWr6VOm/XBVjBuiKmmUJu0W41vSOofUpYSM=
+github.com/juggernautjp/hugo-widebs5-dependencies v0.0.0-20230328163310-98b6fb0e44a6 h1:adBx9l+3LxNkbdkUpYNcKmvcb9NZkkBW/LW+emeQBiM=
+github.com/juggernautjp/hugo-widebs5-dependencies v0.0.0-20230328163310-98b6fb0e44a6/go.mod h1:HMnXy7sMBWr6VOm/XBVjBuiKmmUJu0W41vSOofUpYSM=
+github.com/juggernautjp/hugo-widebs5-dependencies v0.0.0-20230712115458-e335b029bb27 h1:UTWoGTpXeaZa7uypAJvoDdmMg3Onkw10tT7Ph7qVszE=
+github.com/juggernautjp/hugo-widebs5-dependencies v0.0.0-20230712115458-e335b029bb27/go.mod h1:BhnWCbkYsPj7OPoYioj3e9+1VU2y20R1Y8n8IUpkgGE=
